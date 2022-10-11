@@ -14,8 +14,8 @@
     'use strict';
 
     var loginDetails = {
-        userName: "IDENTIFIANT",
-        password: "MOT_DE_PASSE",
+        userName: "your_username",
+        password: "your_password",
     }
 
     function login(){
