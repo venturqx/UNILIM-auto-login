@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Community Unilim Auto Login
+// @name         UNILIM-moodle-auto-login
 // @namespace    http://tampermonkey.net/
 // @version      3.1415
 // @description  An automatic login script for Community.
