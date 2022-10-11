@@ -1,7 +1,7 @@
-# An automatic login script for community-ensil
+# An automatic login script for UNILIM-moodle
 For installing the script follow these steps:
 1. Install `TAMPERMONKEY` extention to your browser.
-2. Click [link](https://github.com/venturqx/community-auto-login/raw/main/autologin.js) and install the script.
+2. Click [link](https://github.com/venturqx/UNILIM-moodle-auto-login/raw/main/autologin.js) and install the script.
 3. Click the `TAMPERMONKEY` icon and go to the Dashboard.
 4. Click the *TAU-Moodle auto login* script.
 5. Change `ID_NUMBER` to your ID number. 
