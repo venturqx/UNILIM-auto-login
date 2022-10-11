@@ -10,5 +10,4 @@ For installing the script follow these steps:
 
 
 Credits:
-1. For writing the origial script: [Lior](https://greasyfork.org/en/users/139274-lior-str)
-2. For writing the origianl guide: Matan Elimelech
+[OfirKedem](https://github.com/OfirKedem/TAU-moodle-auto-login)
