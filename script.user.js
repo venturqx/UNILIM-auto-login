@@ -105,7 +105,8 @@ function loginJazz(){
 }
 
 function isLoggedInCommunity() {
-    return document.getElementsByClassName('usertext').length > 0;
+    const logoutLink = document.querySelector('.dropdown-item[href*="logout.php"]');
+    return logoutLink !== null;
 }
 
 function isLoggedInJazz() {
